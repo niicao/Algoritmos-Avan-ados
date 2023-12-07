@@ -1,5 +1,3 @@
-//Disciplina: Algoritmos Avançados - Exercicio 7
-//Nicholas Yudi Kurita Ikai - 13671852
 #include <stdio.h>
 #include <stdlib.h>
 #include <bits/stdc++.h>

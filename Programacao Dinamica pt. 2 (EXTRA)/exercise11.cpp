@@ -1,6 +1,3 @@
-//Disciplina: Algoritmos Avançados - Exercicio 11
-//Nicholas Yudi Kurita Ikai - 13671852
-
 #include <iostream>
 #include <vector>
 #include <bits/stdc++.h>

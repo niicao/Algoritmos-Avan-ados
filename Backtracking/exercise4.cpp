@@ -1,6 +1,3 @@
-//Disciplina: Algoritmos Avançados - Exercicio 4
-//Nicholas Yudi Kurita Ikai - 13671852
-
 #include <stdio.h>
 #include <stdbool.h>
 #include <bits/stdc++.h>

@@ -1,4 +1,3 @@
-// Kosaraju's algorithm to find strongly connected components in C++
 #include <iostream>
 #include <list>
 #include <stack>
